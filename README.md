@@ -1,2 +1,2 @@
-# courserapractice.github.io
+# maxfavor.github.io
 Max's Practice for Coursera
