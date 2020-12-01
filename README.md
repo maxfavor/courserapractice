@@ -1,2 +1,2 @@
-# courserapractice.gitbuh.io
+# courserapractice.github.io
 Max's Practice for Coursera
